@@ -63,7 +63,7 @@ parser.add_argument('--dense_sample', default=False, action="store_true", help='
 
 # ADAPTIVE RESEARCH HYPER-PARAMETERS
 parser.add_argument('--exp_header', default="default", type=str, help='experiment header')
-parser.add_argument('--rescale_to', default=224, type=int)
+parser.add_argument('--rescale_to', default=192, type=int)
 
 #  adaptive resolution and skipping (hardcoded version)
 parser.add_argument('--shared_backbone', action='store_true', help="share same backbone weight")

@@ -1,6 +1,6 @@
 # Stop or Forward: Dynamic Layer Skipping for Efficient Action Recognition
 
-![Framework](./architecture.pdf)
+![Framework](./architecture.png)
 
 ## Requirements
 Our experiments are conducted on 4 Titan XP (48GB):

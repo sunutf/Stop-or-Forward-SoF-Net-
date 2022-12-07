@@ -1,6 +1,6 @@
 # Stop or Forward: Dynamic Layer Skipping for Efficient Action Recognition
 
-
+![Framework](./architecture.pdf)
 
 ## Requirements
 Our experiments are conducted on 4 Titan XP (48GB):
@@ -27,7 +27,7 @@ To test the models on ActivityNet-v1.3, run:
 ```bash
 sh sof_train.sh 
 ```
-This might take around 1 day.
+This might take around 1~2 day.
 
 ##  Evaluation
 To test the models on ActivityNet-v1.3, run:

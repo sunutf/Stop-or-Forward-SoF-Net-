@@ -1,4 +1,4 @@
-# Stop or Forward: Dynamic Layer Skipping for Efficient Action Recognition
+# Stop or Forward: Dynamic Layer Skipping for Efficient Action Recognition (WACV 2023)
 
 ![Framework](./architecture.png)
 

@@ -2,6 +2,16 @@
 
 ![Framework](./architecture.png)
 
+# Citations
+```
+@inproceedings{seon2023stop,
+    author = {Seon, Jonghyeon and Hwang, Jaedong and Mun, Jonghwan and Han, Bohyung},
+    title = {Stop or Forward: Early Layer Skipping for Efficient Action Recognition},
+    booktitle = {WACV},
+    year = {2023},
+}   
+```
+
 ## Requirements
 Our experiments are conducted on 4 Titan XP (48GB):
 ```bash

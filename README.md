@@ -6,7 +6,7 @@
 ```
 @inproceedings{seon2023stop,
     author = {Seon, Jonghyeon and Hwang, Jaedong and Mun, Jonghwan and Han, Bohyung},
-    title = {Stop or Forward: Early Layer Skipping for Efficient Action Recognition},
+    title = {Stop or Forward: Dynamic Layer Skipping for Efficient Action Recognition},
     booktitle = {WACV},
     year = {2023},
 }   

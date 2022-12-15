@@ -2,7 +2,7 @@
 
 ![Framework](./architecture.png)
 
-# Citations
+## Citations
 ```
 @inproceedings{seon2023stop,
     author = {Seon, Jonghyeon and Hwang, Jaedong and Mun, Jonghwan and Han, Bohyung},
